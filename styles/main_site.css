@@ -1,0 +1,28 @@
+img{
+    height: 44px;
+    width: 110px;
+    float: left;
+}
+header
+{
+    background-color: rgb(89, 24, 240);
+    height:45px;
+}
+.text{
+    color: white;
+    font-size: 33px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(18, 224, 224);
+    text-align: end;
+    height: 44px;
+}
+section{
+    border: solid 1px black;
+    height: 460px;
+}
+footer{
+    height: 25px;
+    background-color: rgba(0, 0, 255, 0.527);
+}
